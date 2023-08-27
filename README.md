@@ -2,7 +2,7 @@
 # Patched-IPAs
 A repo where (i hope) to post patched IPAs 
 
- - [Why am i making this?](Why-am-i-making-this?)
+ - [Why am i making this?](#Why-am-i-making-this?)
  - [How are you making the IPAs](#How-are-you-making-the-IPAs?)
  - [Are your IPAs safe?](#Are-your-IPAs-safe?)
  
