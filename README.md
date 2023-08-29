@@ -15,14 +15,14 @@ Simply by using [sideloadly](https://sideloadly.io/)
 I don't know, are they? Jokes aside every IPA that i will post is tested by me and i will be sure to post the original source of the ipa and of the tweak
 ## IPAs
  - [With free tweaks](#With-free-tweaks)
- - [With paid (needing license) tweaks](#With-paid-%28needing-license%29-tweaks)
- - [With paid (cracked) tweaks](#With-paid-(cracked)-tweaks)
+ - [With paid (needing license) tweaks](#With-paid-needing-license-tweaks)
+ - [With paid (cracked) tweaks](#With-paid-cracked-tweaks)
  ### With free tweaks 
  So far nothing 😢
  ### With paid (needing license) tweaks
   So far nothing 😢
   ### With paid (cracked) tweaks
- - Instagram w/ Rocket for Instagram
+ - [Instagram w/ Rocket for Instagram](#instagram-w-rocket-for-instagram)
  ## Instagram w/ Rocket for Instagram
   
  - Needing license 
